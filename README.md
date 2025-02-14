@@ -1,4 +1,4 @@
-# cis3610lab1
+# cis3610lab2
 
 CIS 3610 Lab 2
 Laguna Beach Ecotourism
